@@ -1,5 +1,6 @@
 # USB-STEALER
 USB STEALER TELEGRAM 📦📨
+![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/a831ceac-7f0b-4db5-aecb-a58fb542b9f5)
 
 
 
