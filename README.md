@@ -1,6 +1,9 @@
 # USB-STEALER
 USB STEALER TELEGRAM 📦📨
 
+> ## story🎴 ##
+I needed a virus to get control of my teachers.
+
 > ## Information🔍 ##
 I've created a python program consisting of three scripts to send all the data on a USB flash drive in a zip file to telegram. 
 
@@ -14,3 +17,24 @@ I've created a python program consisting of three scripts to send all the data o
 
 >🔥TOTAL FUD🔥
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/1f209790-90b2-4f43-a03b-60194f2a0ae2)
+
+
+
+
+
+The virus is propagated by launching the file pyth0n.ps1 or Pyth0n.exe, which will create a shortcut on the desktop named chrome and firefox so that the virus is launched when the user clicks on it. Launching pyth0n will also move the virus to C:/windows-office. 
+The principle of this virus is that it is undetectable by antivirus software and completely anonymous.
+
+
+
+
+> ## Bug🦠 ##
+
+At the moment I can't hide the stealer window. The terminal is therefore visible. I'm working on it.
+
+###### I am not guilty of actions done with this program. #####
+ ###### any suggestion to saturnXIII@proton.me #####
+######
+###### put to good use #####
+╭∩╮(-_-)╭∩╮
+######
