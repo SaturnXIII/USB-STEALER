@@ -1,5 +1,7 @@
 # USB-STEALER
 USB STEALER TELEGRAM 📦📨
+![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/375339ba-4268-4572-b21b-38b97c2017bd)
+
 
 > ## story🎴 ##
 I needed a virus to get control of my teachers.
