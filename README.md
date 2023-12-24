@@ -30,6 +30,10 @@ The principle of this virus is that it is undetectable by antivirus software and
 
 
 
+To get an .exe file instead of the used python: auto-py-to-exe https://pypi.org/project/auto-py-to-exe/
+![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/3cece418-262f-452a-8c72-445970280e21)
+
+
 > ## Bug🦠 ##
 
 At the moment I can't hide the stealer window. The terminal is therefore visible. I'm working on it.
