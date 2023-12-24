@@ -12,5 +12,5 @@ I've created a python program consisting of three scripts to send all the data o
 >And the third script will send the file link to telegram.
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/befc0edc-10b4-4dfe-9450-ecfaa170d84c)
 
-🔥TOTAL FUD🔥
+>🔥TOTAL FUD🔥
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/1f209790-90b2-4f43-a03b-60194f2a0ae2)
