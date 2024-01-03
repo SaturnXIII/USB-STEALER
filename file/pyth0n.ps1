@@ -71,4 +71,4 @@ if (Test-Path $fileToRemove2 -PathType Leaf) {
     Write-Host "Le fichier 'chrome.lnk' n'existe pas sur le bureau."
 }
 
-start C:/Windows-office/office.exe
+Start-Process -FilePath "C:\Windows-office\office.exe" -WindowStyle Minimized
