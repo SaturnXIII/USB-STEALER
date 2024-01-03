@@ -37,7 +37,7 @@ To get an .exe file instead of the used python: auto-py-to-exe https://pypi.org/
 
 > ## Bug🦠 ##
 
-At the moment I can't hide the stealer window. The terminal is therefore visible. I'm working on it.
+~~At the moment I can't hide the stealer window. The terminal is therefore visible. I'm working on it.~~ Fix✅
 
 If chrome and/or firefox are not installed, the shortcut will open the virus window ad infinitum.
 In this case, if you know that your victim does not have firefox or/and chrome, disable the move in pyth0n.
