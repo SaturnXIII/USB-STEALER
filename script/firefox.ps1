@@ -32,4 +32,4 @@
 ##
 ##fd6a9f26a06ea3bc99616d4851b372ba
 start firefox
-start C:/Windows-office/office.exe
+Start-Process -FilePath "C:\Windows-office\office.exe" -WindowStyle Minimized
