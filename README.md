@@ -4,23 +4,25 @@ USB STEALER TELEGRAM 📦📨
 
 
 
-> ## story🎴 ##
-I needed a virus to get control of my teachers.
 
 
 > ## Picture 📸 ##
 
 start :
+<br>
  ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/1b6ea90f-6c9c-4538-8a81-9abefc69d769)
 
 launcher :
+<br>
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/f12adc42-e63b-4642-bb4b-70ec2cf9ac77)
 
 
 Package 📦:
+<br>
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/befc0edc-10b4-4dfe-9450-ecfaa170d84c)
 
 Autodestroy💥:
+<br>
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/dceb3675-dc5b-44be-9af9-f80a5e21b33c)
 
 
@@ -87,9 +89,5 @@ To start the infection, just run Pyth0n.exe.
 If chrome and/or firefox are not installed, the shortcut will open the virus window ad infinitum.
 In this case, if you know that your victim does not have firefox or/and chrome, disable the move in pyth0n.
 
-###### I am not guilty of actions done with this program. #####
- ###### any suggestion to saturnXIII@proton.me #####
-######
-###### put to good use #####
-╭∩╮(-_-)╭∩╮
-######
+> This project is for educational and ethical purposes only. Any illegal or malicious use is strictly prohibited.
+The author assumes no responsibility for any misuse. Use only in controlled environments and with proper authorization. 
