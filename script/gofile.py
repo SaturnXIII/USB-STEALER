@@ -1,3 +1,7 @@
+# gofile.py - adapted from FileUploader by Jordi Serrano (@j0rd1s3rr4n0)
+# https://github.com/j0rd1s3rr4n0/FileUploader
+# MIT License - Copyright (c) 2023 Jordi Serrano
+
 import requests
 import argparse
 import json
