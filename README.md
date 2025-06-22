@@ -32,12 +32,13 @@ I've created a python program consisting of three scripts to send all the data o
 >The first script is usb.py, which will detect the insertion of a USB flash drive and send it to Windows as a zip file. Thanks to : @bestmahdi2 https://github.com/bestmahdi2/FileStealerUSB2PC/blob/master/FileStealerUSB2PC.py 
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/5fe07031-c366-4b8e-89a8-0727eb51d71f)
 
->The second script will upload the zip file to gofile thanks to : @khodekhadem https://github.com/j0rd1s3rr4n0/FileUploader/tree/main/GoFIle
+>The second script will upload the zip file to gofile thanks to : @j0rd1s3rr4n0 https://github.com/j0rd1s3rr4n0/FileUploader/tree/main/GoFIle
 
 >And the third script will send the file link to telegram.
 
 
 >🔥TOTAL FUD🔥 and anonyme
+><br>
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/1f209790-90b2-4f43-a03b-60194f2a0ae2)
 
 
@@ -51,6 +52,7 @@ The principle of this virus is that it is undetectable by antivirus software and
 
 
 To get an .exe file instead of the used python: auto-py-to-exe https://pypi.org/project/auto-py-to-exe/
+<br><br>
 ![image](https://github.com/SaturnXIII/USB-STEALER/assets/110695125/3cece418-262f-452a-8c72-445970280e21)
 
 
